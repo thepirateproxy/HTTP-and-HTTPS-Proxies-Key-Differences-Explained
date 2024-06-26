@@ -29,4 +29,6 @@ Technically, an HTTP proxy can be used for HTTPS traffic, but it does not offer 
 
 HTTPS proxies are invaluable for enhancing security, protecting privacy, and bypassing restrictions. Understanding how they work and their applications can lead to a safer and more secure browsing experience. 
 
-**OkeyProxy** is recognized as the leading proxy IP service provider, offers a wide range of proxy services, such as [rotating residential proxies](https://www.okeyproxy.com/en), static residential proxies, and datacenter proxies. Supporting HTTP, HTTPS, and SOCKS5 protocols, these proxies ensure broad compatibility. OkeyProxy’s highly anonymous proxies are designed to protect user privacy, making them suitable for various business contexts. Take advantage 82% off and enjoy $9/3GB.
+**OkeyProxy** is recognized as the leading proxy IP service provider, offers a wide range of proxy services, such as [rotating residential proxies](https://www.okeyproxy.com/en), static residential proxies, and datacenter proxies. Supporting HTTP, HTTPS, and SOCKS5 protocols, these proxies ensure broad compatibility. OkeyProxy’s highly anonymous proxies are designed to protect user privacy, making them suitable for various business contexts. **New users offer - 82% off and enjoy $9/3GB.**
+
+[![EN banner](https://github.com/thepirateproxy/HTTP-and-HTTPS-Proxies-Key-Differences-Explained/assets/169422974/5e52d9a0-94de-4ff3-a590-0bb80c3414b7)](https://www.okeyproxy.com/en/residential-proxies?link=b63b57)
